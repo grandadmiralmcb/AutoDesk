@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: read-api
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: matth
+Implementation-Vendor-Id: com.buzr
+Build-Jdk: 1.8.0_102
+Implementation-URL: http://projects.spring.io/spring-boot/read-api/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
